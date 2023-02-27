@@ -1,0 +1,10 @@
+class Decrement
+{
+public static void main(String[] args)//method
+{
+//postDecrement
+int a=1;
+System.out.println(a--);//1
+System.out.println(a);//0
+}
+}
